@@ -46,6 +46,7 @@ namespace Tyuiu.IbrayevAA.Sprint2.Task3.V4
             Console.WriteLine("Значение функции = " + res);
 
             Console.ReadLine();
+
         }
     }
 }
